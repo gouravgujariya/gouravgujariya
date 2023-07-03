@@ -1,4 +1,4 @@
-![Header](./Firefly a plain field of green farm land in japanesse anime style with a small river where in far di.jpg)
+![Header](./github-header-image.png)
 ### Hi there 👋
 
 <!--
